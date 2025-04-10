@@ -5,3 +5,4 @@ cheat
 buy grocery
 java
 visa
+eat
