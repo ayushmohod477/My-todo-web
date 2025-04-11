@@ -24,3 +24,4 @@ for i, todo in enumerate(todos):
         st.rerun()
 
 st.text_input(label="", placeholder="Add new todo......", key="new_todo", on_change=add_todo)
+print("hello")
